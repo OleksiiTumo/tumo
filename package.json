@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "cookie-signature": "^1.2.1",
+    "express": "^4.18.2"
+  },
+  "name": "workshop-3",
+  "version": "1.0.0",
+  "main": "script.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
