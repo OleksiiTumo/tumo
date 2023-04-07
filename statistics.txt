@@ -1,4 +1,2 @@
-{"score":25,"countOfBlue":5,"countOfGreen":null,"countOfBlack":0,"countOfClick":9}
-{"score":61,"countOfBlue":11,"countOfGreen":null,"countOfBlack":0,"countOfClick":23}
-{"score":96,"countOfBlue":16,"countOfGreen":null,"countOfBlack":0,"countOfClick":34}
-{"score":0,"countOfBlue":17,"countOfGreen":null,"countOfBlack":0,"countOfClick":37}
+{"score":26,"countOfBlue":29,"countOfGreen":null,"countOfBlack":1,"countOfClick":55}
+{"score":61,"countOfBlue":34,"countOfGreen":null,"countOfBlack":1,"countOfClick":65}
